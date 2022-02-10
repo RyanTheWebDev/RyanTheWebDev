@@ -23,11 +23,11 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
+I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas.
 
 - :telescope: I'm currently learning on becoming a full-stack web developer. 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently, exploring HTML5&CSS3 on Udemy.
 
 - :zap: In my free time, I enjoy going out on a hike or camping. 
 
