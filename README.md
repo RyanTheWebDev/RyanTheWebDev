@@ -27,7 +27,7 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :telescope: I'm currently learning on becoming a full-stack web developer. 
 
-- :seedling: Currently, exploring HTML5&CSS3 on Udemy.
+- :seedling: Currently, exploring HTML5&CSS3 on Udemy and The Odin Project.
 
 - :zap: In my free time, I enjoy going out on a hike or camping. 
 
